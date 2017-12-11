@@ -1,0 +1,19 @@
+.Skills {
+	text-align: left;
+}
+
+.buttonStyle {
+    font-size: .75em;
+    padding-left: 3px;
+    width: 18px;
+    height: 10px;
+    font-family: sans-serif;
+    color: #333333;
+    line-height: 1px
+}
+
+.inputStyle {
+    font-size: .75em;
+    width: 120px;
+    height: 15px;
+}

@@ -1,0 +1,23 @@
+.Stat {
+    margin: 10px;
+}
+
+.StatButtonStyle {
+    font-size: .75em;
+    padding-left: 3px;
+    width: 18px;
+    height: 10px;
+    font-family: sans-serif;
+    color: #333333;
+    line-height: 1px
+}
+
+.StatName {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.StatValue {
+	font-style: italic;
+	font-size: 1.5em;
+}

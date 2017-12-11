@@ -1,0 +1,25 @@
+.Powers {
+	text-align: left;
+}
+
+.PowersButtonStyle {
+    font-size: .75em;
+    padding-left: 3px;
+    width: 18px;
+    height: 10px;
+    font-family: sans-serif;
+    color: #333333;
+    line-height: 1px
+}
+
+.inputStyleBody {
+    font-size: .75em;
+    width: 120px;
+    height: 15px;
+}
+
+.inputStyleCost {
+    font-size: .75em;
+    width: 30px;
+    height: 15px;
+}
